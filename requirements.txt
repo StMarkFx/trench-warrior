@@ -1,1 +1,7 @@
 crewai
+openai 
+requests 
+pandas 
+numpy 
+yfinance 
+ta
